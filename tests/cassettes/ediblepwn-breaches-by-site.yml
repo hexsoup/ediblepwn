@@ -1,0 +1,47 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [EdiblePwn]
+    method: GET
+    uri: https://haveibeenpwned.com/api/v2/breach/Adobe
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcpl
+        VmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/In7xRy+y
+        Rf7Ro4+OZ9Uk/2j00ZuiLf2/n1aLrFjSBxk+GE+rBX34pM6z6fxp1qLl3s7uve3dne2dffrmeDbL
+        Z8EXe/TFm52dR/y/n6ImX1Sz4ry4qdXLq+VJtV62Hz3avb+3v39/99P7hEzeTOti1RYVMDpbpl9O
+        W8KqTgFklO7ev5cuirKkr1PGP82mUwBp0qu8ztMJo53P0quinaf4PZ1Wy5bGVywv0myZFss2r5dZ
+        mZ49HaXrBr8v8lGaEwnKUfo4Xxzly2l9vWrz2eO79Fe6yprmqqpn9DL93/05J0gELV2VBDxt83ft
+        OH0zz10DhlJd1Nlqfp1eZU26qqq6vE5n1ZKwJmCPs3Re5+ef/b4fzdt29eju3aati2m7rvPti7pa
+        rzATd8+LMm/u8sxst9Vqd2dn3L5rf9+P0jarL/KWXv79J2W2fEuf1HlJfy6rapUv8/r3/ehokS2p
+        Z5DlF62L6Vvqu86bqrwk8kyy6du0rTzsH9/NjmQE66UlAY+ySbOyqfroXl1djdu6up4T+RlXTNHd
+        3V3Fdlrns3zZFvTyNg13m2hdVOtmPG8XJWF7C/xnRTMtq4bQWKxpIrNJtW7TljA0NG6AdJrNZpjc
+        83VN39UYFf1M66KhEc6zNiX8ZoRLk1bnhnf4d+Gf6bppq0VeY5TEPLPr9Dyb5rMxMejz6qJ6c70C
+        CzeXF/QB8XN2UlLnefPRo+99dAqmQfdEVnxELE3fATGhm/cBfv+KKABuaz76/uijs+YniR4Qko8e
+        tfU6xyfPsgkxAMkMfXZOZOMPX+fLpmiLS8LCfvYqbwsakffJ61W2eF40JEv80S/5fwCVmB6M9QMA
+        AA==
+    headers:
+      Access-Control-Allow-Origin: ['*']
+      Arr-Disable-Session-Affinity: ['True']
+      CF-RAY: [47182fdc1bf09236-EWR]
+      Cache-Control: ['public, max-age=600']
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Length: ['742']
+      Content-Type: [application/json; charset=utf-8]
+      Date: ['Mon, 29 Oct 2018 19:53:12 GMT']
+      Expect-CT: ['max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"']
+      Server: [cloudflare]
+      Set-Cookie: ['__cfduid=db6b0fe0aa8c6fd3f6a25da9be5b4a5dd1540842792; expires=Tue,
+          29-Oct-19 19:53:12 GMT; path=/; domain=.haveibeenpwned.com; HttpOnly']
+      Strict-Transport-Security: [max-age=31536000; includeSubDomains; preload]
+      Vary: [Accept-Encoding]
+      X-Content-Type-Options: [nosniff]
+      X-Powered-By: [ASP.NET]
+    status: {code: 200, message: OK}
+version: 1

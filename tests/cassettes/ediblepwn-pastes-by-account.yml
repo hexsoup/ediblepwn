@@ -1,0 +1,73 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [EdiblePwn]
+    method: GET
+    uri: https://haveibeenpwned.com/api/v2/pasteaccount/test@example.com
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Access-Control-Allow-Origin: ['*']
+      Arr-Disable-Session-Affinity: ['True']
+      CF-RAY: [47182fe0bf3399fe-EWR]
+      Cache-Control: ['public, max-age=600']
+      Connection: [keep-alive]
+      Content-Encoding: [gzip]
+      Content-Length: ['2262']
+      Content-Type: [application/json; charset=utf-8]
+      Date: ['Mon, 29 Oct 2018 19:53:13 GMT']
+      Expect-CT: ['max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"']
+      Server: [cloudflare]
+      Set-Cookie: ['__cfduid=dba74914d63a4743cf6dc3dcae6f670b21540842793; expires=Tue,
+          29-Oct-19 19:53:13 GMT; path=/; domain=.haveibeenpwned.com; HttpOnly']
+      Strict-Transport-Security: [max-age=31536000; includeSubDomains; preload]
+      Vary: [Accept-Encoding]
+      X-Content-Type-Options: [nosniff]
+      X-Powered-By: [ASP.NET]
+    status: {code: 200, message: OK}
+version: 1
